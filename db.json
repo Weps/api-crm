@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "WebsActualizado",
+      "empresa": "WEBSTEC",
+      "email": "correo@correo.com",
+      "telefono": "555666999",
+      "notas": "El cliente solicita un producto.",
+      "id": 1
+    },
+    {
+      "nombre": "Lili",
+      "empresa": "Pulgas.com",
+      "email": "correo2@correo.com",
+      "telefono": "45654651321654",
+      "notas": "Vende pulgas.",
+      "id": 3
+    },
+    {
+      "nombre": "Cloy",
+      "empresa": "WebsT",
+      "email": "wteyul@ufm.edu",
+      "telefono": "59674550",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Carol",
+      "empresa": "WebsT",
+      "email": "hola@correo.com",
+      "telefono": "",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
